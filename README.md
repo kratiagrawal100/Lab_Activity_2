@@ -7,7 +7,7 @@ Process:
 3.	use head to fetch till half
 4.	use tail to fetch last
 
-
+eg: bash q1.sh textfile
 
 
 ########### q2.sh ############
